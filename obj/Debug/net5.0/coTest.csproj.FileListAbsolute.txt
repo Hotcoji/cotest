@@ -1,0 +1,16 @@
+D:\School\howon\coTest\bin\Debug\net5.0\coTest.exe
+D:\School\howon\coTest\bin\Debug\net5.0\coTest.deps.json
+D:\School\howon\coTest\bin\Debug\net5.0\coTest.runtimeconfig.json
+D:\School\howon\coTest\bin\Debug\net5.0\coTest.runtimeconfig.dev.json
+D:\School\howon\coTest\bin\Debug\net5.0\coTest.dll
+D:\School\howon\coTest\bin\Debug\net5.0\ref\coTest.dll
+D:\School\howon\coTest\bin\Debug\net5.0\coTest.pdb
+D:\School\howon\coTest\obj\Debug\net5.0\coTest.csproj.AssemblyReference.cache
+D:\School\howon\coTest\obj\Debug\net5.0\coTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\howon\coTest\obj\Debug\net5.0\coTest.AssemblyInfoInputs.cache
+D:\School\howon\coTest\obj\Debug\net5.0\coTest.AssemblyInfo.cs
+D:\School\howon\coTest\obj\Debug\net5.0\coTest.csproj.CoreCompileInputs.cache
+D:\School\howon\coTest\obj\Debug\net5.0\coTest.dll
+D:\School\howon\coTest\obj\Debug\net5.0\ref\coTest.dll
+D:\School\howon\coTest\obj\Debug\net5.0\coTest.pdb
+D:\School\howon\coTest\obj\Debug\net5.0\coTest.genruntimeconfig.cache
